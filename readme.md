@@ -1,4 +1,4 @@
-# RemoteLaptopController
+# RemoteController
 
 Based of the <a href="https://github.com/rowanthorpe/ws-repl">REPL</a> project by <a href="https://github.com/rowanthorpe">@rownthorpe</a>
 
